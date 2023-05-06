@@ -1,0 +1,201 @@
+
+[
+    {
+        "id": "accion-1",
+        "titulo": "DRAGON BALL FighterZ",
+        "imagen": "./img/dragonball.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio":  2999
+    },
+    {
+        "id": "accion-2",
+        "titulo": "Grand Theft Auto V",
+        "imagen": "./img/gtaV.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio":  5698
+    },
+    {
+        "id": "accion-3",
+        "titulo": "Marvel's Guardians of the Galaxy",
+        "imagen": "./img/gotg.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio":  3499
+    },
+    {
+        "id": "accion-4",
+        "titulo": "esident Evil 4",
+        "imagen": "./img/re4.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio":  12958
+    },
+    
+    {
+        "id": "fps-1",
+        "titulo": "Battlefield™ V",
+        "imagen": "./img/battlefieldV.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "fps"
+        },
+        "precio": 5299
+    },
+    {
+        "id": "fps-2",
+        "titulo": "Left 4 Dead 2",
+        "imagen": "./img/l4d2.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "fps"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "fps-3",
+        "titulo": "Call of Duty®: Modern Warfare® II",
+        "imagen": "./img/cod2.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "fps"
+        },
+        "precio": 6990
+    },
+    {
+        "id": "fps-4",
+        "titulo": "Call of Duty®: Black Ops III",
+        "imagen": "./img/cod.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "fps"
+        },
+        "precio": 1699
+    },
+    
+    {
+        "id": "deportes-1",
+        "titulo": "EA SPORTS™ FIFA 23",
+        "imagen": "./img/fifa23.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 8999
+    },
+    {
+        "id": "deportes-2",
+        "titulo": "FIFA 22",
+        "imagen": "./img/fifa22.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 5499
+    },    {
+        "id": "deportes-3",
+        "titulo": "NBA 2K23",
+        "imagen": "./img/nba2k23.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 6999
+    },    {
+        "id": "deportes-4",
+        "titulo": "F1® 23",
+        "imagen": "./img/f123.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 11999
+    },
+    
+    {
+        "id": "simuladores-1",
+        "titulo": "Stardew Valley",
+        "imagen": "./img/sv.jpg",
+        "categoria": {
+            "nombre": "Simuladores",
+            "id": "simuladores"
+        },
+        "precio": 179
+    },
+    {
+        "id": "simuladores-2",
+        "titulo": "Dinkum",
+        "imagen": "./img/dinkum.jpg",
+        "categoria": {
+            "nombre": "Simuladores",
+            "id": "simuladores"
+        },
+        "precio": 225
+    },    {
+        "id": "simuladores-3",
+        "titulo": "WorldBox - God Simulator",
+        "imagen": "./img/wb.jpg",
+        "categoria": {
+            "nombre": "Simuladores",
+            "id": "simuladores"
+        },
+        "precio": 777
+    },    {
+        "id": "simuladores-4",
+        "titulo": "WorldBox - God Simulator",
+        "imagen": "./img/harves.jpg",
+        "categoria": {
+            "nombre": "Simuladores",
+            "id": "simuladores"
+        },
+        "precio": 4499
+    },
+
+    {
+        "id": "anime-1",
+        "titulo": "Persona 5 Royal",
+        "imagen": "./img/p5.jpg",
+        "categoria": {
+            "nombre": "Anime",
+            "id": "anime"
+        },
+        "precio": 7999
+    },
+    {
+        "id": "anime-2",
+        "titulo": "Granblue Fantasy: Versus",
+        "imagen": "./img/gf.jpg",
+        "categoria": {
+            "nombre": "Anime",
+            "id": "anime"
+        },
+        "precio": 224
+    },    {
+        "id": "anime-3",
+        "titulo": "Guardianes de la Noche - Las Crónicas de Hinokami",
+        "imagen": "./img/kny.jpg",
+        "categoria": {
+            "nombre": "Anime",
+            "id": "anime"
+        },
+        "precio": 2999
+    },    {
+        "id": "anime-4",
+        "titulo": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "imagen": "./img/ns.jpg",
+        "categoria": {
+            "nombre": "Anime",
+            "id": "anime"
+        },
+        "precio": 299
+    }
+]
