@@ -62,12 +62,11 @@ nav {
 }
 
 aside {
-    padding: 2rem;
     padding-right: 0;
     color: var(--clr-white);
     position: sticky;
     top: 0;
-    height: 100vh;
+    height: 90vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -115,7 +114,9 @@ aside {
 .carousel-control-next {
     right: -40px;
 } 
-
+.slider{
+    padding-bottom: 3rem;
+}
 .boton-nav {
     background-color: transparent;
     border: 0;
